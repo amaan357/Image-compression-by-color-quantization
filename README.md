@@ -2,6 +2,9 @@
 
 -	Extracted the RGB values from each pixel of the input image to generate the required data for the model.
 -	Clustered the data using user defined K-means library to reduce the size of the image.
+```
+run the file: java KMeans <input image> <k> <output image>
+```
 
 |---------|        -----  Koala (Size = 762KB)  -------   |    ----  Penguins (Size = 759KB) ----    |
 |---|---|---|
